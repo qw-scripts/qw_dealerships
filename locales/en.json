@@ -1,0 +1,12 @@
+{
+    "vehicle_interaction": "Vehicle Interaction",
+    "sell_current": "Sell Vehicle",
+    "price": "Price: $%s",
+    "purchase_vehicle": "Purchase Vehicle",
+    "pur_test_drive": "Purchase/Test Drive",
+    "not_enough_money": "You don't have enough money to purchase this vehicle.",
+    "dealership_notification_title": "Dealership",
+    "vehicle_purchased": "You have successfully purchased a %s",
+    "test_drive_label": "Test Drive",
+    "test_drive_description": "Test drive this vehicle."
+}
